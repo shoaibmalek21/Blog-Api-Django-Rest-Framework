@@ -29,6 +29,6 @@ Create a RESTFUL API Service for the Blog-Api
 
 - Base APIView for User Login
 
-- UserLogin API Validation
+- User Login API Validation
 
 - Django Rest Framework Settings
