@@ -1,2 +1,34 @@
 # Blog-Api-Django-Rest-Framework
-Django Blog Api with Rest Framework
+Create a RESTFUL API Service for the Blog-Api 
+
+- API Module & ListAPIView
+
+- Serialize Model Data into JSON
+
+- Retrieve API View Detail View
+
+- Update & Destroy API View
+
+- Create Serializer and Create API View
+
+- Associate User with View Methods
+
+- Custom Permissions
+
+- Filtering a Queryset in a ListAPIView
+
+- Pagination with Rest Framework
+
+- Hyperlinked Identity Field for URL
+
+- User API Setup
+
+- ModelSerializer Create Method
+
+- Serializer Validation
+
+- Base APIView for User Login
+
+- UserLogin API Validation
+
+- Django Rest Framework Settings
