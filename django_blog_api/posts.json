@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Flask vs Django - Which Is Better?",
+    "content": "Django is a full-stack web framework, whereas Flask is a micro and lightweight web framework.",
+    "user_id": 1
+  },
+  {
+    "title": "The Best Programming Podcasts",
+    "content": "No matter what aspect of programming you're into, Software Engineering Daily will prove an excellent source of technical information.",
+    "user_id": 1
+  },
+  {
+    "title": "Best Programmers Throughout History",
+    "content": " So without further ado, here we present the 12 greatest programmers of all time: 1. Ada Lovelace. Augusta Ada King, more common... Continue Reading.",
+    "user_id": 1
+  },
+  {
+    "title": "Python and Physics",
+    "content": "The Python programming language is a widely used tool for basic research and engineering. Its rapid rise in popularity.",
+    "user_id": 1
+  },
+  {
+    "title": "My Latest Updated Post",
+    "content": "Some websites regularly update their posts and would like to show users when the article was last updated ...",
+    "user_id": 1
+  },
+  {
+    "title": "Best Programming Language Python",
+    "content": "Reasons Why Python is Best-Suited for Machine Learning? Python is currently the most popular programming language for research and development.",
+    "user_id": 1
+  }
+]
